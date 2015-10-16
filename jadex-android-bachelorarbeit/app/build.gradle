@@ -1,0 +1,74 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "jadex.android.exampleproject"
+        minSdkVersion 8
+        targetSdkVersion 8
+
+        ndk {
+            moduleName "jadex-android-bachelorarbeit"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_6
+        targetCompatibility JavaVersion.VERSION_1_6
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile files('jadex-android-antlr-2.5-SNAPSHOT.jar')
+    compile files('jadex-android-commons-2.5-SNAPSHOT.jar')
+    compile files('jadex-android-xmlpull-2.5-SNAPSHOT.jar')
+    compile files('jadex-bridge-2.5-SNAPSHOT.jar')
+    compile files('jadex-commons-2.5-SNAPSHOT.jar')
+    compile files('jadex-javaparser-2.5-SNAPSHOT.jar')
+    compile files('jadex-kernel-base-2.5-SNAPSHOT.jar')
+    compile files('jadex-kernel-bdi-2.5-SNAPSHOT.jar')
+    compile files('jadex-kernel-bdibpmn-2.5-SNAPSHOT.jar')
+    compile files('jadex-kernel-bpmn-2.5-SNAPSHOT.jar')
+    compile files('jadex-kernel-component-2.5-SNAPSHOT.jar')
+    compile files('jadex-model-bpmn-2.5-SNAPSHOT.jar')
+    compile files('jadex-platform-2.5-SNAPSHOT.jar')
+    compile files('jadex-platform-extension-webservice-2.5-SNAPSHOT.jar')
+    compile files('jadex-platform-extension-webservice-android-2.5-SNAPSHOT.jar')
+    compile files('jadex-rules-2.5-SNAPSHOT.jar')
+    compile files('jadex-rules-eca-2.5-SNAPSHOT.jar')
+    compile files('jadex-runtimetools-android-2.5-SNAPSHOT.jar')
+    compile files('jadex-tools-base-2.5-SNAPSHOT.jar')
+    compile files('jadex-xml-2.5-SNAPSHOT.jar')
+
+    /*compile files('jadex-android-antlr-2.3.jar')
+    compile files('jadex-android-commons-2.3.jar')
+    compile files('jadex-android-xmlpull-2.3.jar')
+    compile files('jadex-bridge-2.3.jar')
+    compile files('jadex-commons-2.3.jar')
+    compile files('jadex-javaparser-2.3.jar')
+    compile files('jadex-kernel-base-2.3.jar')
+    compile files('jadex-kernel-bdi-2.3.jar')
+    compile files('jadex-kernel-bdibpmn-2.3.jar')
+    compile files('jadex-kernel-bpmn-2.3.jar')
+    compile files('jadex-kernel-component-2.3.jar')
+    compile files('jadex-model-bpmn-2.3.jar')
+    compile files('jadex-platform-2.3.jar')
+    compile files('jadex-platform-extension-webservice-2.3.jar')
+    compile files('jadex-platform-extension-webservice-android-2.3.jar')
+    compile files('jadex-rules-2.3.jar')
+    compile files('jadex-rules-eca-2.3.jar')
+    compile files('jadex-runtimetools-android-2.3.jar')
+    compile files('jadex-tools-base-2.3.jar')
+    compile files('jadex-xml-2.3.jar')*/
+    compile project(':libraries:opencv')
+}

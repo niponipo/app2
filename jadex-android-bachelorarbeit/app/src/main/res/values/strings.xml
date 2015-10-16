@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="starting">Starting Jadex Platform...</string>
+    <string name="started">Platform started:  </string>
+    <string name="stopped">"Platform stopped."</string>
+    <string name="app_name">Jadex Android Example Project</string>
+    <string name="title_activity_open_cv">OpenCV</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+</resources>

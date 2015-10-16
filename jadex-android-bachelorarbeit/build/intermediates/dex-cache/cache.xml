@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-platform-extension-webservice-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ae7c547d3cb4bfcba097a07ac883e3fcc1aa45c">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-platform-extension-webservice-2.5-SNAPSHOT-ec3c7da53ba807b355706318b5b0bb16f3cc9b43.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-platform-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d354e62d1d2ff03f5264a8501ebb3ee8d2dfd422">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-platform-2.5-SNAPSHOT-4a081d654c20864d49743cf0a2c50c580757f409.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-android-antlr-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80076cfd925929bf488d9c9051fc2ffda6bf20ea">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-android-antlr-2.5-SNAPSHOT-7806605fb24a1f523571ae4116f7e002ca42b703.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-android-commons-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5143548a4af6bd1b4aadcab2ee839c394bdcb668">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-android-commons-2.5-SNAPSHOT-a2b4bd801575e953384eb0e3176639232951f1ff.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\classes-82d5778153a72f410a04702e67c6d0d66b1d9e16.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-tools-base-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fffdc031092a06067fe58640fea2dcacde397fd6">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-tools-base-2.5-SNAPSHOT-1388ecd943b0ac7b44d78589ac4f2b98338fffcf.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-bpmn-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="050fbb8bd6b770f1b0b43eef4dabd2df5ba12348">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-bpmn-2.5-SNAPSHOT-2b11a2a2bda1335f76b9ebae688321f57956938c.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-bdiv3-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b234dae47b8947cd175d315bb8a1e5b95bb29231">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-bdiv3-2.5-SNAPSHOT-84b07927e2e9d53c796f1497cad7c025a73b2c94.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-xml-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="324255ec4fe5b34082ce9f7fa871ad90030c59c5">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-xml-2.5-SNAPSHOT-fee36fb31d91d847826ab135d9ee756593e77900.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-bridge-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ec41382341c2140b1e45061433e8892b5bbf53af">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-bridge-2.5-SNAPSHOT-5e7ff6a4d353201c3c95ecf586ff6633d89e3ffd.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-bdi-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2748d8741b4d59b0ef1e40de8da6280744bb1f0c">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-bdi-2.5-SNAPSHOT-a393008a4f6a44ad9ccca38473dadd9e708d6c90.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-bdiv3-android-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d0081c59bb6f635bcea52e833e2e8e234ea0be7">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-bdiv3-android-2.5-SNAPSHOT-511ab6b041d5a208ee15a604843741ca47f6c461.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-platform-android-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5bd4434a73864ed2a9eb5b0a718d871334b1c9e9">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-platform-android-2.5-SNAPSHOT-eb55c902ffa22b5579969acc172269805b7c70f5.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-commons-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fd7e8099b66b70eed5a1e13594b00e0518a18d5e">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-commons-2.5-SNAPSHOT-655ac364a107665e81302af1fdff33b7c4179ef8.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-android-xmlpull-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2eee9b48a51d1f6765286aabdca1807fc2170987">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-android-xmlpull-2.5-SNAPSHOT-df6c9e26a0c453e243823d6c5487b1a601784198.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nico\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-954b762f137243e6f3001b72bdf3bdd9c6908c3e.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-component-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="add7b2529ea074ca3d045e862d061ed14c8002bd">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-component-2.5-SNAPSHOT-ccbb58f0e3d46df526dd15c67422b7a1ddbfe420.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-platform-extension-webservice-android-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6d31ac5b8c60353f07fe77c2bc6d9cadb8997325">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-platform-extension-webservice-android-2.5-SNAPSHOT-cb9dc22473437cf1444e1cd8bc803b2e3b6606a7.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-runtimetools-android-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e834bc3a134ad597e3ab35b39e6ed664049fec6b">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-runtimetools-android-2.5-SNAPSHOT-e1427678da988059cfaab46726728cf920ff1015.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-android-platformclient-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ebe255967cecca225c1a616ad644a07ec310abf5">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-android-platformclient-2.5-SNAPSHOT-5c6d86fd654df776493c96459d75609f94c5250b.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-rules-eca-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="310d8fde8fd2b0c6509c35d9b447b8436bb4c8d6">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-rules-eca-2.5-SNAPSHOT-21e1f38983a1bf6508e9a00c8d9ffaab81f0b66b.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-model-bpmn-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="035811730049c5f3df18ebc9cdf387299cc412e8">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-model-bpmn-2.5-SNAPSHOT-ab7ca9b992f394dc593d03332b30794c8326b248.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-4b28dc0d27bf7dd49df0fd352d57b2e124622756.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-micro-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cbbd56e86cbccfadd7dbc7691984a062cd909a11">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-micro-2.5-SNAPSHOT-594573429822d62e2dc2244fbd830cd42e61eb9d.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-rules-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9bdfa39e61a79e29d8ab05368bae9d662ee5ade2">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-rules-2.5-SNAPSHOT-a8416e218fe043cc59b68cb4fed6ec04983ba8a7.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-android-maven-plugin-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0ddcc79eebe83639059200df33100cdcf8540666">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-android-maven-plugin-2.5-SNAPSHOT-b9e7240b20b537f680f3db39509f55fbcb8954fd.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-base-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="18d928a4a32c50ea4224757119175f9a6a796385">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-base-2.5-SNAPSHOT-96c6f1dd5dc2fd72d12cdfc72eb4e5ebb1a2ae96.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-javaparser-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9799189f8f4aae5e052444e44bd5b257c75048c3">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-javaparser-2.5-SNAPSHOT-917aa49a35cfa7a71c77fc4f6719da809f589c36.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\libs\jadex-kernel-bdibpmn-2.5-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a6f1d7cf7cec34b71d64af556d652bdcb6851c3">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\jadex-kernel-bdibpmn-2.5-SNAPSHOT-6a7cbd048882154e4e99b8e8929ab5a7ed0be2f8.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\classes-0310f2465045216965dc9ca8502f7ddaa10ad544.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\exploded-aar\jadex-android-bachelorarbeit.libraries\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db729093b398b499611818fe3b66d29cbc6a9bc2">
+        <dex dex="C:\Android_Entwicklung\BachelorArbeit_AndroidStudio\jadex-android-bachelorarbeit\app\build\intermediates\pre-dexed\debug\classes-044fae2c7987667876b24f75e9043a7f43ce6d22.jar" />
+    </item>
+
+</items>

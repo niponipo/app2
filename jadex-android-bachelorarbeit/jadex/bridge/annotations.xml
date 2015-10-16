@@ -1,0 +1,5 @@
+<root>
+    <item name='jadex.bridge.IExternalAccess'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

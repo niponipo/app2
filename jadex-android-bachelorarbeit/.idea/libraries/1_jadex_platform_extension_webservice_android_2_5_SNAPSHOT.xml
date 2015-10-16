@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="1_jadex-platform-extension-webservice-android-2.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jadex-platform-extension-webservice-android-2.5-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

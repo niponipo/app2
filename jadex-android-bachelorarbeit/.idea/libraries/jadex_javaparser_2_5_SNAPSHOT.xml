@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jadex-javaparser-2.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jadex-javaparser-2.5-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
