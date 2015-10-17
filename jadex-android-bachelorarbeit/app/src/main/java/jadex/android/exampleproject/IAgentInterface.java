@@ -12,6 +12,6 @@ import java.io.File;
  */
 public interface IAgentInterface {
 
-    void erkenneGesicht(Mat mat,  String pfad);
+    void erkenneGesicht(byte[] bytearray);
 
 }

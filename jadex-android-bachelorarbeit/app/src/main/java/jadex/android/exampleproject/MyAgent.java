@@ -43,7 +43,7 @@ import jadex.micro.annotation.RequiredServices;
 @Agent
 public class MyAgent  implements IAgentInterface {
 
-    CascadeClassifier faceDetector;
+
 
     //@AgentService
     //protected IContextService context;
@@ -51,22 +51,20 @@ public class MyAgent  implements IAgentInterface {
     //Hier läuft die eigentliche Gesichtserkenung ab, die Anzahl der Gesichter soll hier erstmal
     //im LogCat ausgegeben werden
     @Override
-    public void erkenneGesicht(Mat mat, String pfad)
+    public void erkenneGesicht(byte[] bytearray)
     {
+        CascadeClassifier faceDetector;
 
-
-
-
-            // Load the cascade classifier
-            faceDetector = new CascadeClassifier(pfad);
-
+        Bitmap image = BitmapFactory.decodeByteArray(bytearray,0,bytearray.length);
+        Mat mat = new Mat();
+        Utils.bitmapToMat(image,mat);
+        faceDetector = new CascadeClassifier("/data/data/jadex.android.exampleproject/app_cascade/lbpcascade_frontalface.xml");
 
         //2. Gesichtserkennung (funktioniert nicht, immer 0 Gesichter)
         MatOfRect faceDetections = new MatOfRect();
         faceDetector.detectMultiScale(mat, faceDetections);
-        Integer anzahl = faceDetections.toArray().length;
 
-       Log.d("Anzahl2 im Agent", String.valueOf(faceDetections.toArray().length));
+        Log.d("Anzahl2 im Agent", String.valueOf(faceDetections.toArray().length));
 
        /* MyEvent myEvent = new MyEvent();
         myEvent.setAnzahl(anzahl);

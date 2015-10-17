@@ -112,10 +112,10 @@ public class MyJadexService extends JadexPlatformService {
                 Utils.bitmapToMat(image, mat);
 
                 //1. Gesichtserkennung (funktioniert)
-                //MatOfRect faceDetections = new MatOfRect();
-                //faceDetector.detectMultiScale(mat, faceDetections);
+                MatOfRect faceDetections = new MatOfRect();
+                faceDetector.detectMultiScale(mat, faceDetections);
 
-               // Log.d("Anzahl1 im Service", String.valueOf(faceDetections.toArray().length));
+                Log.d("Anzahl1 im Service", String.valueOf(faceDetections.toArray().length));
 
                 try
                 {
@@ -123,7 +123,7 @@ public class MyJadexService extends JadexPlatformService {
 
                     //Hier wird die Methode erkenneGesicht() aufgerufen, es wird das Mat und
                     //und der faceDectector übergeben, der in initializeOpenCVDependencies() erzeugt wird
-                    agent.erkenneGesicht(mat, pfad);
+                    agent.erkenneGesicht(bytearray);
                 } catch (RuntimeException e)
                 {
                     Log.e("Fehler", "Hier ist der Fehler");
@@ -161,7 +161,7 @@ public class MyJadexService extends JadexPlatformService {
 
 
             // Load the cascade classifier
-           //faceDetector = new CascadeClassifier(mCascadeFile.getAbsolutePath());
+           faceDetector = new CascadeClassifier(mCascadeFile.getAbsolutePath());
         } catch (Exception e)
         {
             Log.e("OpenCVActivity", "Error loading cascade", e);
