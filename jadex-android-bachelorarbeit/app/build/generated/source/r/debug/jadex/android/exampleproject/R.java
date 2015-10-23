@@ -1574,6 +1574,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0c0033;
         public static final int always=0x7f0c0019;
         public static final int any=0x7f0c0013;
+        public static final int anzahlGesichter=0x7f0c0053;
         public static final int back=0x7f0c0014;
         public static final int beginning=0x7f0c0016;
         public static final int buttonPanel=0x7f0c0039;
@@ -1644,7 +1645,6 @@ containing a value of this type.
         public static final int text=0x7f0c0060;
         public static final int text2=0x7f0c005e;
         public static final int textSpacerNoButtons=0x7f0c0036;
-        public static final int textView=0x7f0c0053;
         public static final int time=0x7f0c005c;
         public static final int title=0x7f0c002f;
         public static final int title_template=0x7f0c0032;

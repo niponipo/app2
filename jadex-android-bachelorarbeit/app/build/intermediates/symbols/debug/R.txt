@@ -433,6 +433,7 @@ int id activity_chooser_view_content 0x7f0c0029
 int id alertTitle 0x7f0c0033
 int id always 0x7f0c0019
 int id any 0x7f0c0013
+int id anzahlGesichter 0x7f0c0053
 int id back 0x7f0c0014
 int id beginning 0x7f0c0016
 int id buttonPanel 0x7f0c0039
@@ -503,7 +504,6 @@ int id tabMode 0x7f0c000b
 int id text 0x7f0c0060
 int id text2 0x7f0c005e
 int id textSpacerNoButtons 0x7f0c0036
-int id textView 0x7f0c0053
 int id time 0x7f0c005c
 int id title 0x7f0c002f
 int id title_template 0x7f0c0032
